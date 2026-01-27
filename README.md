@@ -1,25 +1,29 @@
 #BombSquad
 
 ## BombSquadDM is a multiplayer game created in Unity Engine using C# with the following libraries 
-- Netcode for GameObjects
-- Lobby 
-- Relay 
-- Authentication 
+- Unity Netcode for GameObjects
+- Unity Lobby 
+- Unity Relay 
+- Unity Authentication 
 ## The Project implements 
- - full player synchronization
- - lobby creation 
- - lobby listing 
- - nickname system 
+ - Full player synchronization
+ - Lobby creation 
+ - Lobby listing 
+ - Nickname system 
 ## Players compete eliminating each other using variety of grenades and abilities.
 
 ## Installation
-- Folder "Game" Contains the built version of the game that you can play.
-- Folder "Projects" Contains Unity Project files.
-- Scripts written by me can be found here:
-"Bomb Squad\Unity Project\BombSquadDM\Assets\NewScripts"
+ - Scripts/ – selected C# scripts written by me (player logic, gameplay, grenades, networking)
+ - Game/ – contains playable Windows build
 
 ## Credits
 Szymon Parzygnat(Demonizeded)
-email: rekinowylotr@gmail.com
+email: rekinowylotr@gmail.com | szymon.par21@gmail.com
+
+### Notes:
+Scripts depend on UnityEngine and Netcode for GameObjects.
+This repository is meant for code review, not for rebuilding the project.
+
+
 
 
