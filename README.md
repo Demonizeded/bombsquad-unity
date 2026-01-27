@@ -1,4 +1,4 @@
-#BombSquad
+# BombSquad
 
 ## BombSquadDM is a multiplayer game created in Unity Engine using C# with the following libraries 
 - Unity Netcode for GameObjects
@@ -23,6 +23,7 @@ email: rekinowylotr@gmail.com | szymon.par21@gmail.com
 ### Notes:
 Scripts depend on UnityEngine and Netcode for GameObjects.
 This repository is meant for code review, not for rebuilding the project.
+
 
 
 
