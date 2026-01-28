@@ -14,6 +14,7 @@
 
 ## Installation
  - Scripts/ – selected C# scripts written by me (player logic, gameplay, grenades, networking)
+ - A playable build is available in the **releases** section.
 
 ## Credits
 Szymon Parzygnat(Demonizeded)
@@ -22,3 +23,4 @@ email: rekinowylotr@gmail.com | szymon.par21@gmail.com
 ### Notes:
 Scripts depend on UnityEngine and Netcode for GameObjects.
 This repository is meant for code review, not for rebuilding the project.
+
